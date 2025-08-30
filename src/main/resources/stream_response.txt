@@ -1,0 +1,3 @@
+data: {"choices": [{"delta": {"content": "Response content 1"}}]}
+data: {"choices": [{"delta": {"content": "Response content 2"}}]}
+data: [DONE]
